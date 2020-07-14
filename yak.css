@@ -1,0 +1,35 @@
+.title {
+    text-align: center;
+}
+
+.form {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.sortSelect {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.chart-buttons {
+    text-align: center;
+}
+
+.searchAll {
+    text-align: center;
+}
+
+.yaks {
+    text-align: center;
+}
+
+.yaks>li {
+    background: hsl(0, 0%, 95%);
+    padding: 12px;
+    border-radius: 2px;
+}
+
+.yaks>li>p {
+    font-weight: bold;
+}
